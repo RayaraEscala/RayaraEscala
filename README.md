@@ -76,6 +76,7 @@ Sou de São Fidélis, interior do Rio de Janeiro, e graduada em **Serviço Socia
 
 📫 Vamos conversar? Me encontre no [LinkedIn](https://www.linkedin.com/in/rayaraescala-r-torres).
 
-<img src="https://raw.githubusercontent.com/RayaraEscala/RayaraEscala/snake-output/snake.svg" alt="Animação da cobrinha com as contribuições" />
+
+
 
 </div>
