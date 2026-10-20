@@ -50,7 +50,7 @@ Sou de São Fidélis, interior do Rio de Janeiro, e graduada em **Serviço Socia
 
 - Fortalecer a base em **redes** e **segurança da informação**
 - Construir um portfólio prático de laboratórios e projetos
-- Evoluir em **Python** e desenvolvimento web
+- Evoluir em **Cibersegurança**, Python e desenvolvimento web
 
 ---
 
