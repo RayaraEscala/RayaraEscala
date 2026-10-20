@@ -1,115 +1,73 @@
-## Hi there 👋
+<div align="center">
+# Olá, eu sou a Rayara Escala 👋
 
-# 👩🏻‍💻 Rayara Escala
+**Graduada em Serviço Social, em transição de carreira para Tecnologia, com foco em Redes e Cibersegurança**
 
-**`Desenvolvedora FullStack`**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayaraescala-r-torres)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rayaraescalat)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayaraescala@gmail.com)
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
-
-
-
-<p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="www.linkedin.com/in/rayaraescala-r-torres">
-        <img 
-            alt="Linkedin" 
-            title="Me siga no Linkedin" 
-           <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-        />
-    </a>
-</p>
-
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 👩🏻‍💻 Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+Sou de São Fidélis, interior do Rio de Janeiro, e graduada em **Serviço Social pela UFF**. Hoje estou em transição de carreira para a área de tecnologia, combinando a visão humana da minha formação com o raciocínio técnico de TI.
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+- 🎓 Cursando **Tecnologia em Sistemas de Computação** na UFF (CEDERJ)
+- 🔐 Estudando **Cibersegurança** no programa **Mulheres Digitais**, com a Cisco Networking Academy
+- 🌐 Praticando **redes de computadores** com laboratórios no Cisco Packet Tracer
+- 📚 Compartilho aqui meu aprendizado e a evolução dos meus projetos
 
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+## 🛠️ Tecnologias e Ferramentas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+---
 
-</p>
+## 🚀 Projetos em destaque
 
-###
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [Servidor DNS](https://github.com/RayaraEscala/Serve-DNS) | Servidor DNS/HTTP configurado para hospedar meu currículo na rede simulada | Packet Tracer, DNS, HTTP |
+| [Servidor DHCP](https://github.com/RayaraEscala/CriacaoDoServidorDHCP) | Criação e teste de um servidor DHCP com distribuição automática de endereços IP | Packet Tracer, DHCP |
+| [Hierarquia de Redes](https://github.com/RayaraEscala/Projeto-de-Topologia-de-Rede-Hier-rquica). | Projeto de topologia de rede hierárquica | Packet Tracer, Redes |
+| [Site DOReMI SOlFÁ Móveis](https://github.com/RayaraEscala/-DOReMI-SOlF-M-veis)| Site de loja de móveis desenvolvido para a disciplina de Construção de Páginas Web | HTML5, CSS3, JavaScript |
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
- 
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+---
+
+## 🎯 Foco atual
+
+- Fortalecer a base em **redes** e **segurança da informação**
+- Construir um portfólio prático de laboratórios e projetos
+- Evoluir em **Python** e desenvolvimento web
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=RayaraEscala&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+<img height="180" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayaraEscala&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br" />
+
 </div>
 
-###
+---
 
-<br clear="both">
+<div align="center">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/RayaraEscala/RayaraEscala/snake-output/snake.svg" alt="Snake animation" />
+📫 Vamos conversar? Me encontre no [LinkedIn](https://www.linkedin.com/in/rayaraescala-r-torres).
 
-###
+<img src="https://raw.githubusercontent.com/RayaraEscala/RayaraEscala/snake-output/snake.svg" alt="Animação da cobrinha com as contribuições" />
+
+</div>
