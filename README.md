@@ -1,5 +1,6 @@
 <div align="center">
-# Olá, eu sou a Rayara Escala 👋
+  
+## Olá, eu sou a Rayara Escala 👋
 
 **Graduada em Serviço Social, em transição de carreira para Tecnologia, com foco em Redes e Cibersegurança**
 
