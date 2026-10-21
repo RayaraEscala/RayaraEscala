@@ -62,11 +62,11 @@ Sou de São Fidélis, interior do Rio de Janeiro, e graduada em **Serviço Socia
 <img height="180" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayaraEscala&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br" />
 
 </div>
----
 
+---
 ## 🛡️ Certificações em redes
 
-<div>
+<div align="center">
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d7da5a19-faf7-48a7-99d8-20584b79326d" />
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c57f507f-247b-49f6-bfa8-064122e9852a" />
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a0fda638-6391-4d51-8fcc-d4e102dffb8e" />
